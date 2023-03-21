@@ -2,7 +2,8 @@
 
 /**
  * main - fibonacci <3
- *
+ * prints the first 98 Fibonacci numbers separated by comma and space,starting with 1 and 2
+ * followed by a new line,
  * Purpose - no hardcode
  *
  * Return: (Success)
