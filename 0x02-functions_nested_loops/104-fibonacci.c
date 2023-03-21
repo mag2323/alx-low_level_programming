@@ -29,10 +29,12 @@ int main(void)
 		bef = aft - bef;
 	}
 
+
 	bef1 = (bef / l);
 	bef2 = (bef % l);
 	aft1 = (aft / l);
 	aft2 = (aft % l);
+
 
 	for (i = 92; i < 99; ++i)
 	{
